@@ -1,2 +1,3 @@
 # Checkers
-Checkers in Prolog.
+Checkers in Prolog. Will fill in more later.
+
