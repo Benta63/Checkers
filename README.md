@@ -1,3 +1,3 @@
 # Checkers
-Checkers in Prolog. Will fill in more later.
+This was the final project of .
 
